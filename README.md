@@ -1,7 +1,7 @@
-🔭 Trabajo como profesor en la Universidad Autónoma de Nuevo León impartiendo materias de programación y bases de datos.
-🌱 Actualmente estoy estudiando análisis de datos con Python y con R.
+-🔭 Trabajo como profesor en la Universidad Autónoma de Nuevo León impartiendo materias de programación y bases de datos.
+-🌱 Actualmente estoy estudiando análisis de datos con Python y con R.
 
-Mis principales intereses son el desarrollo de software y el análisis de datos.
+-Mis principales intereses son el desarrollo de software y el análisis de datos.
 
 <!--
 **Abrego/Abrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
